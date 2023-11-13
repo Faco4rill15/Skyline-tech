@@ -1,0 +1,40 @@
+table, tr, th{
+    border-top: 1px solid;
+    border-collapse: collapse;
+    border-color: #ddd;
+
+}
+
+
+table{
+
+    width: 100%;
+}
+
+th{
+    background-color: dodgerblue;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.Container{
+
+    width: 80%;
+    margin: auto;
+    padding-top:50px;
+}
+
+th, td{
+
+    padding: 10px;
+}
+
+caption{
+    background-color: orange;
+    margin: auto;
+    margin-bottom: 20px;
+    width: 30%;
+    padding: 10px;
+    border-radius: 10px;
+}
