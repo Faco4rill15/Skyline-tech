@@ -1,0 +1,23 @@
+table, td, th {
+    border-bottom: 2px solid;
+    border-collapse: collapse;
+    border-color: dodgerblue;
+    
+}
+table{
+    width: 50%; 
+    font-size: 20px;
+    position: absolute;
+}
+td, th{
+    padding: 10px;
+    border-color: dodgerblue;
+}
+th{
+    background-color: navy;
+    color: white;
+}
+.cap{
+    color: red;
+    font-size: 30px;
+}
