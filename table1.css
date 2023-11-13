@@ -1,0 +1,32 @@
+table, td, th{
+    border-bottom:  2px solid;
+    border-collapse: collapse;
+    border-color: #96d4d9;
+}
+
+td, th{
+    padding: 10px;
+   /* border-color: #96d4d9; */
+}
+
+table{
+    width: 50%;
+    font-size: 20px;
+    text-align: center;
+}
+
+th{
+
+    background-color: dodgerblue;
+    color: aliceblue;
+}
+
+
+tr:nth-child(odd){
+background-color: lightgray;
+}
+
+tr:hover{
+
+    background-color: darkgreen;
+}  
